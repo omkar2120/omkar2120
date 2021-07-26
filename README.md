@@ -8,7 +8,7 @@
  
 - 📫 How to reach me *naradomkar2120@gmail.com*
  
- <a href="https://www.instagram.com/_omkar_narad_/"><img src="https://img.shields.io/badge/_omkar_narad_-E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="Omkar Narad" />
+ <a href="https://www.instagram.com/__omkar_narad__/"><img src="https://img.shields.io/badge/__omkar_narad__-E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="omkar narad" />
  
  
  <h3 align="left">Languages and Tools:</h3>
@@ -39,6 +39,7 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=omkar2120&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/omkar2120)  
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '75px'></h2>
+<!-- <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '75px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+ -->

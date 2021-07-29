@@ -7,7 +7,9 @@
  <img src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif" width="250" /> <hr>
  
 - 📫 How to reach me *naradomkar2120@gmail.com*
+- 📫 BCA Student
 - 📫 curentely working on milestone
+
  
  <a href="https://www.instagram.com/__omkar_narad__/"><img src="https://img.shields.io/badge/__omkar_narad__-E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="omkar narad" />
  

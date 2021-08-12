@@ -7,7 +7,7 @@
  
 - 📫 How to reach me *naradomkar2120@gmail.com*
 - 📫 BCA Student
-- 📫 Curentely working on milestone
+- 📫 Curently working on milestone
 
  
  <a href="https://www.instagram.com/__omkar_narad__/"><img src="https://img.shields.io/badge/__omkar_narad__-E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="omkar narad" />

@@ -6,7 +6,6 @@
 
                                                            
 - 📫 How to reach me **naradomkar2120@gmail.com**
-<!-- - 📫 Curently working on milestone -->
 - I’m currently working on **InstaClone**
 - 💬 Ask me about **react**
  

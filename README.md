@@ -37,7 +37,7 @@
           
    
    
-   
+    
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=omkar2120&show_icons=true&count_private=true&&theme=highcontrast)  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkar2120&theme=highcontrast) 

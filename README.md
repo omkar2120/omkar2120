@@ -32,11 +32,7 @@
   
 
 
-<h2> My GitHub Stats </h2>
 
-<p align="left"> <a href="https://github.com/omkar2120"><img src="https://github-profile-trophy.vercel.app/?username=omkar2120&theme=onedark" alt="omkar2120" /></a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkar2120&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="omkar2120" /></p>
 
 
    

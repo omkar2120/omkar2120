@@ -8,7 +8,6 @@
 - 📫 How to reach me **naradomkar2120@gmail.com**
 - I’m currently working on **InstaClone**
 - 💬 Ask me about **react**
-- 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar2120&label=Profile%20views&color=0e75b6&style=flat" alt="omkar2120" /> </p>
  <a href="https://www.instagram.com/__omkar_narad__/"><img src="https://img.shields.io/badge/__omkar_narad__-E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="omkar narad" />
   <a href="https://www.linkedin.com/in/omkar-narad-469560215/"><img src="https://img.shields.io/badge/Omkar%20Narad-000080?style=for-the-badge&logo=linkedin&logoColor=black%20for%20linkedin" alt="LinkedIn"/></a>
@@ -35,7 +34,9 @@
 
 
 
-   
+   <h2> My GitHub Stats </h2>
+<p align="left"> <a href="https://github.com/omkar2120"><img src="https://github-profile-trophy.vercel.app/?username=Anshika056&theme=onedark" alt="omkar2120" /></a> </p>
+
     
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=omkar2120&show_icons=true&count_private=true&&theme=highcontrast)  
 

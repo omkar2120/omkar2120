@@ -12,7 +12,7 @@
  <a href="https://www.instagram.com/__omkar_narad__/"><img src="https://img.shields.io/badge/__omkar_narad__-E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="omkar narad" />
   <a href="https://www.linkedin.com/in/omkar-narad-469560215/"><img src="https://img.shields.io/badge/Omkar%20Narad-000080?style=for-the-badge&logo=linkedin&logoColor=black%20for%20linkedin" alt="LinkedIn"/></a>
  
-  
+         
  
  <h3 align="left">Languages and Tools:</h3>
                                

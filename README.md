@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omkar Narad</h1>
                                                                         
-                                                                         
+                                                                          
                       
                                               
-
+                 
                                                            
 - 📫 How to reach me **naradomkar2120@gmail.com**
 - I’m currently working on **InstaClone**

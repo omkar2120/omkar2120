@@ -35,9 +35,7 @@
 <h2> My GitHub Stats:</h2>
 
 
-     <hr/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkar2120&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="omkar2120" /></p>
 
 
 

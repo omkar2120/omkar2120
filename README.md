@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Omkar Narad</h1>                           
-                                                                        
+<h3 align="center">A passionate Frontend Developer from India </h3>
+                                  
                                                                               
                        
                                               
                  
                                                            
-- 📫 How to reach me **naradomkar2120@gmail.com**
-- I’m currently working on **InstaClone**
-- 💬 Ask me about **react**
+<!-- - 📫 How to reach me **naradomkar2120@gmail.com** -->
+<!-- - I’m currently working on **InstaClone** -->
+- 💬 Ask me about *Reactjs , Redux *
+- 📫 How to reach me *naradomkar2120@gmail.com
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar2120&label=Profile%20views&color=0e75b6&style=flat" alt="omkar2120" /> </p>
  <a href="https://www.instagram.com/__omkar_narad__/"><img src="https://img.shields.io/badge/__omkar_narad__-E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="omkar narad" />
   <a href="https://www.linkedin.com/in/omkar-narad-469560215/"><img src="https://img.shields.io/badge/Omkar%20Narad-000080?style=for-the-badge&logo=linkedin&logoColor=black%20for%20linkedin" alt="LinkedIn"/></a>

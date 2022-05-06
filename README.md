@@ -14,7 +14,7 @@
  <a href="https://www.instagram.com/__omkar_narad__/"><img src="https://img.shields.io/badge/__omkar_narad__-E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="omkar narad" />
   <a href="https://www.linkedin.com/in/omkar-narad-469560215/"><img src="https://img.shields.io/badge/Omkar%20Narad-000080?style=for-the-badge&logo=linkedin&logoColor=black%20for%20linkedin" alt="LinkedIn"/></a>
  
-         
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="omkar-narad-469560215" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/omkar-narad-469560215?trk=profile-badge">Omkar Narad</a></div>
  
  <h3 align="left">Languages and Tools:</h3>
                                
